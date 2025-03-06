@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Renata Gabrielle Augusto Maia  
+🚀 Desenvolvedora Frontend | 💡 Especialista em Angular, React e Flutter  
 
-<!--
-**RenataIART/RenataIART** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 **Conecte-se comigo:**  
+[Lattes](http://lattes.cnpq.br/3463643506770044) | [GitHub](https://github.com/RenataIART)  
 
-Here are some ideas to get you started:
+## 🛠️ **Tech Stack**
+- 💻 **Frontend:** ![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular) ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react) ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
+- ⚡ **Outras tecnologias:** TypeScript, API REST, Sass, Node.js, PrimeNG, NgRx, Scrum & Agile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 SmartEdu
+📌 Plataforma educacional integrada para smart cities, oferecendo módulos de educação, transporte escolar e alimentação. Permite o monitoramento e gestão do ensino, otimização da logística do transporte escolar e controle eficiente da alimentação dos estudantes, proporcionando maior eficiência na administração educacional.
+
+🔹 AcessIF
+📌 Sistema de controle de acesso via QR Code para gerenciamento e alocação de chaves dos espaços do IFCE, garantindo segurança e praticidade na utilização dos ambientes.
+
+🔹 Acesse Contábil
+📌 Solução digital para a comercialização de serviços contábeis e educação financeira, facilitando o acesso a consultorias e ferramentas de gestão financeira.
+
+🔹 SmartConv
+📌 Módulo especializado em convênios municipais para smart cities, otimizando a gestão de parcerias e contratos governamentais.
+
