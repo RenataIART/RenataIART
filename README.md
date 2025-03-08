@@ -2,7 +2,7 @@
 🚀 Desenvolvedora Frontend | 💡 Especialista em Angular, React e Flutter  
 
 🌐 **Conecte-se comigo:**  
-[Lattes](http://lattes.cnpq.br/3463643506770044) | [GitHub](https://github.com/RenataIART)  
+[Lattes](http://lattes.cnpq.br/3463643506770044) | [Linkedin](www.linkedin.com/in/renata-maia-b0949a355) 
 
 ## 🛠️ **Tech Stack**
 - 💻 **Frontend:** ![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular) ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react) ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
