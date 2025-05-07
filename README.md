@@ -1,5 +1,5 @@
-# 👋 Olá! Eu sou Renata Gabrielle Augusto Maia  
-🚀 Desenvolvedora Frontend | 💡 Especialista em Angular, React e Flutter  
+# 👋 Olá! Eu sou Renata Maia  
+🚀 Desenvolvedora Front-end | 💡 Especialista em Angular, React e Flutter  
 
 🌐 **Conecte-se comigo:**  
 [Lattes](http://lattes.cnpq.br/3463643506770044) | [Linkedin](www.linkedin.com/in/renata-maia-b0949a355) 
