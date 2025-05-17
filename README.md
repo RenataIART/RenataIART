@@ -1,12 +1,12 @@
 # 👋 Olá! Eu sou Renata Maia  
-🚀 Desenvolvedora Front-end | 💡 Especialista em Angular, React e Flutter  
+🚀 Desenvolvedora Front-end | 💡 Especialista em Angular e Flutter  
 
 🌐 **Conecte-se comigo:**  
 [Lattes](http://lattes.cnpq.br/3463643506770044) | [Linkedin](www.linkedin.com/in/renata-maia-b0949a355) 
 
 ## 🛠️ **Tech Stack**
-- 💻 **Frontend:** ![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular) ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react) ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
-- ⚡ **Outras tecnologias:** TypeScript, API REST, Sass, Node.js, PrimeNG, NgRx, Scrum & Agile.
+- 💻 **Frontend:** ![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular) ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
+- ⚡ **Outras tecnologias:** TypeScript, API REST, Sass, Node.js, PrimeNG, NgRx, Scrum & Kanban.
 
 ## 🚀 **Projetos Recentes**
 
